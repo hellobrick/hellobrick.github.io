@@ -1,0 +1,13 @@
+{
+  "common": {
+    "js": "js/common-e8812e9dbf1a0a9aefdb.js",
+    "css": "css/common-3a4707b877b5195e98af.css"
+  },
+  "list": {
+    "js": "js/list-e8812e9dbf1a0a9aefdb.js",
+    "css": "css/list-3a4707b877b5195e98af.css"
+  },
+  "post": {
+    "css": "css/post-3a4707b877b5195e98af.css"
+  }
+}

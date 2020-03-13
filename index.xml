@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, Brick! on My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Hello, Brick! on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Mar 2020 09:48:56 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 07 Mar 2020 09:48:56 +0100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hello there!
+… and welcome on Hello, Bricks!, our family LEGO blog.
+We like LEGO, and love to play together.
+We&amp;rsquo;ve started Hello, Bricks! to share our creations, reviews, experiences and everything else around the wonderful world of LEGO.
+Subscribe to our RSS feed to know when new content is published.
+Contact: hellobrickblog at gmail dot com</description>
+    </item>
+    
+  </channel>
+</rss>
