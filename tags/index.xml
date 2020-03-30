@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Hello, Brick!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2020 10:29:51 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 17:02:24 +0200</lastBuildDate>
     
 	<atom:link href="https://hellobrick.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MOC</title>
+      <link>https://hellobrick.github.io/tags/moc/</link>
+      <pubDate>Mon, 30 Mar 2020 17:02:24 +0200</pubDate>
+      
+      <guid>https://hellobrick.github.io/tags/moc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ideas</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 22 Mar 2020 10:29:51 +0100</pubDate>
       
       <guid>https://hellobrick.github.io/tags/ideas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MOC</title>
-      <link>https://hellobrick.github.io/tags/moc/</link>
-      <pubDate>Mon, 16 Mar 2020 17:11:40 +0100</pubDate>
-      
-      <guid>https://hellobrick.github.io/tags/moc/</guid>
       <description></description>
     </item>
     
