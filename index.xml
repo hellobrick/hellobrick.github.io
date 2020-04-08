@@ -58,5 +58,14 @@ Subscribe to our RSS feed to know when new content is published.
 Contact: hellobrickblog at gmail dot com</description>
     </item>
     
+    <item>
+      <title>Dreambox</title>
+      <link>https://hellobrick.github.io/dreambox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hellobrick.github.io/dreambox/</guid>
+      <description>In this page we list the LEGO set we&amp;rsquo;ve bought, or we would like to have in the future. Links are affiliated links; so if you buy, we earn something as well.</description>
+    </item>
+    
   </channel>
 </rss>
