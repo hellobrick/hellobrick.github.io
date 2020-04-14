@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Hello, Brick!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Apr 2020 08:37:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 12:51:17 +0200</lastBuildDate>
     
 	<atom:link href="https://hellobrick.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Review</title>
+      <link>https://hellobrick.github.io/tags/review/</link>
+      <pubDate>Tue, 14 Apr 2020 12:51:17 +0200</pubDate>
+      
+      <guid>https://hellobrick.github.io/tags/review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stories</title>
