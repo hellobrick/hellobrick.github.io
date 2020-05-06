@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hello, Brick!</title>
-    <link>https://playingwithlego.com/tags/</link>
+    <link>https://playingwithbricks.com/tags/</link>
     <description>Recent content in Tags on Hello, Brick!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Apr 2020 12:51:17 +0200</lastBuildDate>
     
-	<atom:link href="https://playingwithlego.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://playingwithbricks.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Review</title>
-      <link>https://playingwithlego.com/tags/review/</link>
+      <link>https://playingwithbricks.com/tags/review/</link>
       <pubDate>Tue, 14 Apr 2020 12:51:17 +0200</pubDate>
       
-      <guid>https://playingwithlego.com/tags/review/</guid>
+      <guid>https://playingwithbricks.com/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stories</title>
-      <link>https://playingwithlego.com/tags/stories/</link>
+      <link>https://playingwithbricks.com/tags/stories/</link>
       <pubDate>Thu, 09 Apr 2020 08:37:46 +0200</pubDate>
       
-      <guid>https://playingwithlego.com/tags/stories/</guid>
+      <guid>https://playingwithbricks.com/tags/stories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MOC</title>
-      <link>https://playingwithlego.com/tags/moc/</link>
+      <link>https://playingwithbricks.com/tags/moc/</link>
       <pubDate>Mon, 30 Mar 2020 17:02:24 +0200</pubDate>
       
-      <guid>https://playingwithlego.com/tags/moc/</guid>
+      <guid>https://playingwithbricks.com/tags/moc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ideas</title>
-      <link>https://playingwithlego.com/tags/ideas/</link>
+      <link>https://playingwithbricks.com/tags/ideas/</link>
       <pubDate>Sun, 22 Mar 2020 10:29:51 +0100</pubDate>
       
-      <guid>https://playingwithlego.com/tags/ideas/</guid>
+      <guid>https://playingwithbricks.com/tags/ideas/</guid>
       <description></description>
     </item>
     

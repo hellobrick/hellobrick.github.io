@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hello, Brick!</title>
-    <link>https://playingwithlego.com/categories/</link>
+    <link>https://playingwithbricks.com/categories/</link>
     <description>Recent content in Categories on Hello, Brick!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://playingwithlego.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://playingwithbricks.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
